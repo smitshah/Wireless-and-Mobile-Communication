@@ -2,4 +2,4 @@
 
 The matlab code is in exp1.m file, and the output will be as below.
 
-![Figure1](Exp1 - ASK generation/Figure1.jpg)
+![Figure1](https://github.com/smitshah99/Wireless-and-Mobile-Communication/blob/main/Exp1%20-%20ASK%20generation/Figure1.jpg)
